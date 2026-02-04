@@ -1,1 +1,3 @@
-print("Welcome to the Grocery") 
+print("Welcome to the grocery") 
+
+print("Store")
